@@ -2,4 +2,5 @@
 venv
 
 
-.docs/source
+.docs/source/
+./docs/source
